@@ -4,6 +4,8 @@ Configuring AWS Code Commit (Git) locally
 ```
 Goto your HOME directory
 Unzip the given 'ssh.zip'
+
+// If Linux/Mac instance perform this
 chmod 600 .ssh/config
 chmod 600 .ssh/codecommit_rsa
 ```
