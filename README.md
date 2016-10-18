@@ -3,10 +3,10 @@ Configuring AWS Code Commit (Git) locally
 
 ```
 Goto your HOME directory
-Unzip the given ".ssh.zip"
+Unzip the given '.ssh.zip'
 ```
 
-Now lets test to verify it works.
+Now lets test to verify it works by running this command in 'Git Bash'.
 
 ```
 ssh git-codecommit.us-east-1.amazonaws.com
